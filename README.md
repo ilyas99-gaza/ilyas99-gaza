@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ilyas99-gaza
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning java and c.
+- 🌱 I’m currently learning pyhon,java and c.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me with my number and insta id "its.ilyas.0"
-- 😄 Pronouns: #freepalestine🇵🇸
+- 📫 How to reach me with my number and insta id "kinetic_king_0"
+- 😄 Pronouns: #freepalestine
 - ⚡ Fun fact: I love to workout & learning new skills
 
 <!---
